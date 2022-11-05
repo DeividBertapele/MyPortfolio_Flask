@@ -201,7 +201,7 @@ i.menu-mobile {
 }
 
 .cv .cv-item h4 {
-  line-height: 18px;
+  line-height: 25px;
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
@@ -211,7 +211,7 @@ i.menu-mobile {
 
 .cv .cv-item h5 {
   background: #e4edf9;
-  padding: 5px 15px;
+  padding: 6px 20px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
@@ -222,8 +222,8 @@ i.menu-mobile {
   position: absolute;
   top: 0;
   left: -9px;
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
   border: 2px solid #1f5297;
   background: #fff;
   border-radius: 50%;
