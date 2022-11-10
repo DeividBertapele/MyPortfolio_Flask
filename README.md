@@ -7,4 +7,4 @@ Heroku:
 https://myportfolio-flask.herokuapp.com/
 
 Vercel:
-https://y-deividbertapele.vercel.app/
+https://deivdbertapelemyportfolio.vercel.app/
