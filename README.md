@@ -3,8 +3,6 @@ My portfolio
 
 link do portfolio:
 
-Heroku: 
-https://myportfolio-flask.herokuapp.com/
 
 Vercel:
 https://deivdbertapelemyportfolio.vercel.app/
